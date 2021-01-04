@@ -23,6 +23,6 @@ paginate:         5
 version:          2.1.0
 
 github:
-  repo:           https://github.com/xtm77
+  repo:           https://github.com/xtm77/xtm77.github.io
 
 remote_theme: poole/hyde
