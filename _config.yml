@@ -27,4 +27,4 @@ github:
 
 remote_theme: poole/hyde
 
-theme: jekyll-theme-cayman
+theme: hyde
